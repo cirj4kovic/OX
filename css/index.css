@@ -1,0 +1,69 @@
+html {
+  height: 100%; }
+
+body {
+  height: 100%;
+  background-color: #222528; }
+
+.conn {
+  height: 100%;
+  width: 100%; }
+
+.colPosition {
+  display: table;
+  text-align: center;
+  vertical-align: middle; }
+
+.navmenu {
+  padding-top: 35px; }
+
+.menu {
+  color: MediumSpringGreen;
+  font-size: 19px;
+  font-weight: bold;
+  margin-right: 25px; }
+
+.menu:hover {
+  text-decoration: none;
+  color: white; }
+
+.field {
+  width: 100%;
+  height: 50px;
+  margin: 5px;
+  border: solid 2px MediumSpringGreen;
+  text-align: center;
+  font-size: 24px;
+  color: black; }
+
+.submit {
+  width: 100%;
+  margin: 5px;
+  font-weight: bold;
+  font-size: 24px;
+  color: black; }
+
+.submit:hover {
+  background-color: MediumSpringGreen;
+  color: white; }
+
+.arrowLogo {
+  color: MediumSpringGreen;
+  font-size: 200px; }
+
+.fadeInLeft {
+  -webkit-animation-duration: 2s;
+  -moz-animation-duration: 2s;
+  -ms-transition-animation-duration: 2s; }
+
+.fadeInRight {
+  -webkit-animation-duration: 2s;
+  -moz-animation-duration: 2s;
+  -ms-transition-animation-duration: 2s; }
+
+.hr {
+  background-color: MediumSpringGreen;
+  height: 1px;
+  margin-top: 70px; }
+
+/*# sourceMappingURL=index.css.map */
